@@ -1,4 +1,5 @@
 # Animations
+Create circles and sound animations with Paper.js open source. (http://paperjs.org/features/)
 
 ## How to run the code
 Open circles.html, 
